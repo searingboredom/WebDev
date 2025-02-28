@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.my-list {
+    background-color: #f7f381;
+    padding: 8px 24px;
+    width: 500px;
+    text-align: center;
+    font-size: 30px;
+    border: 1px solid #f7f381;
+    box-shadow: 0 0 10px 2px #333333;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 24px;
+    text-align: center;
+}
+
+ol {
+    margin: 12px;
+    padding-left: 20px;
+    text-align: left;
+    font-size: 24px;
+}
